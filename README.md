@@ -1,7 +1,7 @@
 
 # offset-stream
 
-Drop the first `x` chunks.
+Drops the first `x` chunks.
 
 ## Usage
 

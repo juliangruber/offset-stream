@@ -1,6 +1,6 @@
 {
   "name": "offset-stream",
-  "description": "Drop the first x chunks",
+  "description": "Drops the first x chunks",
   "version": "0.0.0",
   "repository": {
     "type": "git",
