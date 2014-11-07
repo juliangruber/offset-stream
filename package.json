@@ -11,9 +11,6 @@
   "scripts": {
     "test": "tap test/*.js"
   },
-  "dependencies": {
-    "through": "~2.2.7"
-  },
   "devDependencies": {
     "tap": "*"
   },
