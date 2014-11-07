@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/offset-stream",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "make test"
   },
   "devDependencies": {
     "tap": "*"
