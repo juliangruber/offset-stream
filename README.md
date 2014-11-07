@@ -3,6 +3,8 @@
 
 Drops the first `x` chunks.
 
+[![build status](https://secure.travis-ci.org/juliangruber/offset-stream.svg)](http://travis-ci.org/juliangruber/offset-stream)
+
 ## Usage
 
 Drop the first 3 chunks.
