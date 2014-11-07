@@ -5,12 +5,14 @@ Drops the first `x` chunks.
 
 ## Usage
 
-Drop the first 3 lines written to stdin.
+Drop the first 3 chunks.
 
 ```js
 var offset = require('offset-stream');
 
-process.stdin.pipe(offset(3)).pipe(process.stdout);
+someSource
+  .pipe(offset(3))
+  .pipe(someDestination)
 ```
 
 ## API
